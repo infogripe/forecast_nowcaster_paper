@@ -14,7 +14,7 @@ str(junt)
 #####Mediana
 
 total<- junt %>%
-  filter(!base %in% c("2023-07-04", "2023-07-26")) %>% ####Tirando bases muito próximos de outras para ficar com n igual dos modelos do nowcaster
+  filter(!base %in% c("2023-07-04", "2023-07-26")) %>% ####Removing duplicate weeks
  # filter(widow!=30 | is.na(widow)) %>%   
   group_by(virus, tipo, widow) %>% 
   dplyr::summarise(n= n(),
@@ -35,7 +35,7 @@ write.csv2(total, "output/Metricas/metricas_mediana_virus.csv")
 
 
 total_DRS<- junt %>%
-  filter(!base %in% c("2023-07-04", "2023-07-26")) %>% ####Tirando bases muito próximos de outras para ficar com n igual dos modelos do nowcaster
+  filter(!base %in% c("2023-07-04", "2023-07-26")) %>% #####Removing duplicate weeks
   filter(widow!=30 | is.na(widow)) %>%   
   group_by(virus, tipo, widow, DRS) %>% 
   dplyr::summarise(n= n(),
