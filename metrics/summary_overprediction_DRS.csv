@@ -1,0 +1,86 @@
+"DRS";"metodo2";"median";"min";"max";"Q1_over";"Q3_over"
+"ARARAQUARA";"Epinow2";0;0;789,5;0;0
+"ARARAQUARA";"Exclusion last 3 weeks";0;0;2,2;0;0
+"ARARAQUARA";"Median-corrected";0;0;13,1;0;0,25
+"ARARAQUARA";"Nowcaster";0;0;13,9;0;0,6
+"ARARAQUARA";"Uncorrected data (baseline)";0;0;1,2;0;0
+"ARAÇATUBA";"Epinow2";0;0;2404,5;0;0
+"ARAÇATUBA";"Exclusion last 3 weeks";0;0;6,2;0;0
+"ARAÇATUBA";"Median-corrected";0;0;7,2;0;0
+"ARAÇATUBA";"Nowcaster";0;0;9,8;0;0
+"ARAÇATUBA";"Uncorrected data (baseline)";0;0;1,2;0;0
+"BAIXADA SANTISTA";"Epinow2";0;0;65377,5;0;0
+"BAIXADA SANTISTA";"Exclusion last 3 weeks";0;0;37,1;0;0
+"BAIXADA SANTISTA";"Median-corrected";0;0;29,6;0;3
+"BAIXADA SANTISTA";"Nowcaster";0,15;0;29,1;0;3
+"BAIXADA SANTISTA";"Uncorrected data (baseline)";0;0;0;0;0
+"BARRETOS";"Epinow2";0;0;55598,22;0;0,05
+"BARRETOS";"Exclusion last 3 weeks";0;0;9;0;0
+"BARRETOS";"Median-corrected";0,2;0;21060580,7;0;3,4
+"BARRETOS";"Nowcaster";0,4;0;1243540,6;0;3,4
+"BARRETOS";"Uncorrected data (baseline)";0;0;5;0;0
+"BAURU";"Epinow2";0;0;4682,7;0;0
+"BAURU";"Exclusion last 3 weeks";0;0;4,2;0;0
+"BAURU";"Median-corrected";0;0;195,1;0;1,55
+"BAURU";"Nowcaster";0;0;45617,7;0;2,05
+"BAURU";"Uncorrected data (baseline)";0;0;0;0;0
+"CAMPINAS";"Epinow2";0;0;7,2;0;0
+"CAMPINAS";"Exclusion last 3 weeks";0;0;152,3;0;0
+"CAMPINAS";"Median-corrected";0;0;185,8;0;17,275
+"CAMPINAS";"Nowcaster";0;0;841,5;0;5,45
+"CAMPINAS";"Uncorrected data (baseline)";0;0;5,6;0;0
+"FRANCA";"Epinow2";0;0;1225754,94;0;0
+"FRANCA";"Exclusion last 3 weeks";0;0;28,1;0;0
+"FRANCA";"Median-corrected";0;0;86511,72;0;1,2
+"FRANCA";"Nowcaster";0;0;28519,9;0;1,45
+"FRANCA";"Uncorrected data (baseline)";0;0;4,2;0;0
+"GRANDE SÃO PAULO";"Epinow2";0;0;0;0;0
+"GRANDE SÃO PAULO";"Exclusion last 3 weeks";0;0;511,2;0;0
+"GRANDE SÃO PAULO";"Median-corrected";0;0;2986,7;0;3,1
+"GRANDE SÃO PAULO";"Nowcaster";0;0;225,8;0;0
+"GRANDE SÃO PAULO";"Uncorrected data (baseline)";0;0;0;0;0
+"MARÍLIA";"Epinow2";0;0;96114,4;0;0
+"MARÍLIA";"Exclusion last 3 weeks";0;0;12,2;0;0
+"MARÍLIA";"Median-corrected";0;0;5075390,4;0;2,45
+"MARÍLIA";"Nowcaster";0;0;172229466,2;0;2,075
+"MARÍLIA";"Uncorrected data (baseline)";0;0;4,2;0;0
+"PIRACICABA";"Epinow2";0;0;158,6;0;0
+"PIRACICABA";"Exclusion last 3 weeks";0;0;79,8;0;0
+"PIRACICABA";"Median-corrected";0;0;147,7;0;2,825
+"PIRACICABA";"Nowcaster";0;0;146;0;3,05
+"PIRACICABA";"Uncorrected data (baseline)";0;0;1;0;0
+"PRESIDENTE PRUDENTE";"Epinow2";0;0;6730934,1;0;0
+"PRESIDENTE PRUDENTE";"Exclusion last 3 weeks";0;0;12,2;0;0
+"PRESIDENTE PRUDENTE";"Median-corrected";0,6;0;2137193971,75;0;4
+"PRESIDENTE PRUDENTE";"Nowcaster";0,8;0;4,54660559258338e+26;0;3,85
+"PRESIDENTE PRUDENTE";"Uncorrected data (baseline)";0;0;2,8;0;0
+"REGISTRO";"Epinow2";0;0;130226,63;0;1,6
+"REGISTRO";"Exclusion last 3 weeks";0;0;7,6;0;0,05
+"REGISTRO";"Median-corrected";0,6;0;30,6;0;2,45
+"REGISTRO";"Nowcaster";0,9;0;40,2;0;3,4
+"REGISTRO";"Uncorrected data (baseline)";0;0;5,2;0;0
+"RIBEIRÃO PRETO";"Epinow2";0;0;99749,8;0;0
+"RIBEIRÃO PRETO";"Exclusion last 3 weeks";0;0;6,7;0;0
+"RIBEIRÃO PRETO";"Median-corrected";0;0;388,3;0;3,95
+"RIBEIRÃO PRETO";"Nowcaster";0;0;209,7;0;3,7
+"RIBEIRÃO PRETO";"Uncorrected data (baseline)";0;0;0;0;0
+"SOROCABA";"Epinow2";0;0;1276,7;0;0
+"SOROCABA";"Exclusion last 3 weeks";0;0;89,9;0;0
+"SOROCABA";"Median-corrected";0;0;48,6;0;0
+"SOROCABA";"Nowcaster";0;0;246409,2;0;0,3
+"SOROCABA";"Uncorrected data (baseline)";0;0;0;0;0
+"SÃO JOSÉ DO RIO PRETO";"Epinow2";0;0;280,7;0;0
+"SÃO JOSÉ DO RIO PRETO";"Exclusion last 3 weeks";0;0;15,4;0;0
+"SÃO JOSÉ DO RIO PRETO";"Median-corrected";0;0;718,3;0;0
+"SÃO JOSÉ DO RIO PRETO";"Nowcaster";0;0;74,2;0;3,25
+"SÃO JOSÉ DO RIO PRETO";"Uncorrected data (baseline)";0;0;3,8;0;0
+"SÃO JOÃO DA BOA VISTA";"Epinow2";0;0;489,7;0;0
+"SÃO JOÃO DA BOA VISTA";"Exclusion last 3 weeks";0;0;55,7;0;0,2
+"SÃO JOÃO DA BOA VISTA";"Median-corrected";0;0;42848,6;0;3,05
+"SÃO JOÃO DA BOA VISTA";"Nowcaster";0,2;0;72818,1;0;3,425
+"SÃO JOÃO DA BOA VISTA";"Uncorrected data (baseline)";0;0;0,8;0;0
+"TAUBATÉ";"Epinow2";0;0;1780,3;0;0
+"TAUBATÉ";"Exclusion last 3 weeks";0;0;0;0;0
+"TAUBATÉ";"Median-corrected";0;0;45,3;0;0
+"TAUBATÉ";"Nowcaster";0;0;16350,9;0;3,85
+"TAUBATÉ";"Uncorrected data (baseline)";0;0;0;0;0
