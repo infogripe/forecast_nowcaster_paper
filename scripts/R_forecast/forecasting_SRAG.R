@@ -34,7 +34,7 @@ for (i in file.name) {
     mutate(DT_REPORT = pmax(DT_DIGITA, DT_NOTIFIC, na.rm = TRUE)) |>
     select(DT_SIN_PRI, DT_REPORT, idade, drs)
   
-  name_drs<- c("CAMPINAS","SÃO JOSÉ DO RIO PRETO")
+  name_drs<- unique(dados_srag$drs)
   
   print(i)
   
