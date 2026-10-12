@@ -18,7 +18,7 @@ DRS<- DRS %>%   mutate(
 )
 
 
-load("C:/Users/tatty/Documents/GitHub/01_SRAG/boletim.rData") 
+load("boletim.rData") 
 
 
 casos<- boletim %>%  
