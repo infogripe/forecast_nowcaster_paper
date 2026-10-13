@@ -13,7 +13,7 @@ if(!require ('readxl')) {install.packages('readxl')};library('readxl')
 #dir<-setwd("G:/CCD/CVE/RESPIRATORIAS")
 
 ##Base do dia
-load("C:/Users/tatty/Documents/GitHub/01_SRAG/boletim.rData") ###Boletim do 19/02/2025
+oad("Map/boletim.rData")  ###Boletim do 19/02/2025
 
 
 ###Previsoes_controle
